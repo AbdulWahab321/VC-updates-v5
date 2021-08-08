@@ -986,3 +986,4 @@ def prntImportantText():
 def start():
     while True:
         showInput()
+        
